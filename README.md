@@ -41,6 +41,6 @@ Responsável por gerenciar regras de negócio, autenticação, geração de trei
 ---
 
 ## 🔗 Deploy do projeto
-
+https://www.fit-ai-api.liviakobayashi.com.br
 
 
